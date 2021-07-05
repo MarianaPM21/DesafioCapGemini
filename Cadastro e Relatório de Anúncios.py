@@ -218,3 +218,4 @@ while (not (repetir == "n" or repetir == "N")):
 
 print("\nEncerrando...")
 time.sleep(5)
+
