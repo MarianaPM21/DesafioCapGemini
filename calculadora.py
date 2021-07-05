@@ -32,4 +32,4 @@ while not (repetir == "n" or repetir == "N"):
     repetir = input("\nDeseja calcular a projeção para mais um investimento? S-sim, N-não: ")
     
 print("\nEncerrando...")
-time.sleep(2)
+time.sleep(5)
